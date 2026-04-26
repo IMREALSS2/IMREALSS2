@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=IMREALSS2&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=16%20%2F%20coder%20%2F%20just%20vibing&descSize=14&descAlignY=60)
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF8FAB&center=true&vCenter=true&width=520&lines=just+a+femboy+who+codes;making+stuff+i'd+actually+use;js+is+life+%E2%80%A2+python+is+sleep;c%23+kinda+slaps+ngl)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF8FAB&center=true&vCenter=true&width=520&lines=just+a+femboy+who+codes;making+stuff+that+is+fun;js+is+godlike+%E2%80%A2+python+is+goated;c%23+kinda+nice+also)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,9 +32,9 @@ runs:  on energy
 
 </div>
 
-- **JavaScript** — first love. where i actually feel powerful
-- **Python** — when i just need stuff to work
-- **C# / Unity** — games and little tools. still learning, still cooking
+- **JavaScript** — first love. self taught btw
+- **Python** — fun tools, I love creating discord tools
+- **C# / Unity** — i love creating games
 
 ---
 
