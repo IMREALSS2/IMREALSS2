@@ -13,7 +13,7 @@
 ```yaml
 name:  SS2
 age:   16
-vibe:  soft femboy energy
+vibe:  idk
 mood:  happy
 loves: CODINGGGGGG
 runs:  on energy
