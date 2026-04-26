@@ -56,9 +56,9 @@ runs:  on energy
 
 ### what i'm doing rn
 
-- tinkering with browser game mods
+- tinkering with browser games
 - making little unity prototypes
-- small webdev projects when inspiration hits
+- small projects
 - trying to actually finish a project for once
 
 ---
@@ -81,10 +81,10 @@ runs:  on energy
 ```js
 const me = {
   pronouns: ["he/him", "they/them"],
-  coffee:   "iced, way too sweet",
-  music:    ["lo-fi", "hyperpop", "j-pop", "whatever spotify gives me"],
+  coffee:   "STARBUCKSSSSS",
+  music:    ["anything that sounds good"],
   pet:      "would die for a cat",
-  motto:    "if it works on my machine, it's a feature",
+  motto:    "being a femboy is good",
 };
 ```
 
