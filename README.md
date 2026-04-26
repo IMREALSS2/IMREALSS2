@@ -50,7 +50,7 @@ runs:  on energy
 
 > lua is just trash
 >
-> low-level stuff (c++, rust) is on the "someday maybe" pile. vibes > pointers
+> low-level stuff (c++, rust)
 
 ---
 
