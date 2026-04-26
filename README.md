@@ -1,28 +1,27 @@
 <div align="center">
 
-<!-- Header banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=hi%20i'm%20IMREALSS2&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=just%20a%2016yo%20building%20cute%20stuff%20on%20the%20internet&descSize=14&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=IMREALSS2&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=16%20%2F%20coder%20%2F%20just%20vibing&descSize=14&descAlignY=60)
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF8FAB&center=true&vCenter=true&width=520&lines=femboy+%2B+keyboard+%3D+chaos+%E2%9C%A8;making+stuff+i'd+actually+use;js+goes+brrr+%E2%80%A2+python+goes+slow;c%23+is+kinda+cute+ngl)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF8FAB&center=true&vCenter=true&width=520&lines=just+a+femboy+who+codes;making+stuff+i'd+actually+use;js+is+life+%E2%80%A2+python+is+sleep;c%23+kinda+slaps+ngl)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🌸 about me
+### about me
 
 ```yaml
-name:    SS2
-age:     16
-vibe:    soft femboy energy 🎀
-mood:    happy
-loves:   CODINGGGGGG
-runs on: energy
+name:  SS2
+age:   16
+vibe:  soft femboy energy
+mood:  happy
+loves: CODINGGGGGG
+runs:  on energy
 ```
 
 ---
 
-### 💻 stuff i actually know
+### stuff i actually know
 
 <div align="center">
 
@@ -33,13 +32,13 @@ runs on: energy
 
 </div>
 
-- **JavaScript** — my first love, where i actually feel powerful
-- **Python** — for when i need things to just *work*.
-- **C# / Unity** — putting together games and tools. still learning.
+- **JavaScript** — first love. where i actually feel powerful
+- **Python** — when i just need stuff to work
+- **C# / Unity** — games and little tools. still learning, still cooking
 
 ---
 
-### 🚫 stuff i'm absolute garbage at
+### stuff i'm absolute garbage at
 
 <div align="center">
 
@@ -49,21 +48,22 @@ runs on: energy
 
 </div>
 
-> lua just trash
-> low-level stuff (c++, rust) is on the "someday maybe" pile. for now, vibes > pointers.
+> lua is just trash
+>
+> low-level stuff (c++, rust) is on the "someday maybe" pile. vibes > pointers
 
 ---
 
-### 🎯 what i'm doing rn
+### what i'm doing rn
 
-- 🛠️ tinkering with browser game mods
-- 🎮 making little unity prototype
-- 🌐 small webdev projects when inspiration hits
-- 📚 trying to actually finish a project for once 😭
+- tinkering with browser game mods
+- making little unity prototypes
+- small webdev projects when inspiration hits
+- trying to actually finish a project for once
 
 ---
 
-### 📈 github stats
+### github stats
 
 <div align="center">
 
@@ -76,7 +76,7 @@ runs on: energy
 
 ---
 
-### 💭 random thoughts
+### random thoughts
 
 ```js
 const me = {
@@ -92,9 +92,9 @@ const me = {
 
 <div align="center">
 
-### 🌷 say hi maybe?
+### say hi maybe
 
-i'm friendly i swear ✨
+i'm friendly i swear
 
 ![visitor count](https://visitor-badge.laobi.icu/badge?page_id=IMREALSS2.IMREALSS2&left_color=FF8FAB&right_color=222222&left_text=visitors)
 
