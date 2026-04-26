@@ -43,7 +43,7 @@ runs:  on energy
 <div align="center">
 
 ![Lua](https://img.shields.io/badge/lua-skill_issue-FF8FAB?style=for-the-badge&logo=lua&logoColor=white)
-![Cpp](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Cpp](https://img.shields.io/badge/-C++-kinda-noob-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-not_yet-FF8FAB?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
