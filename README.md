@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=IMREALSS2&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=16%20%2F%20coder%20%2F%20just%20living%20life&descSize=14&descAlignY=60)
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF8FAB&center=true&vCenter=true&width=520&lines=just+a+femboy+who+codes;making+stuff+that+is+fun;#FEMBOYS+%E2%80%A2Guys+I+love+coding;c%23+kinda+nice+also)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF8FAB&center=true&vCenter=true&width=520&lines=just+a+femboy+who+codes;making+stuff+that+is+fun;#FEMBOYS+%E2%80%A2+Guys+I+love+coding;c%23+kinda+nice+also)](https://git.io/typing-svg)
 
 </div>
 
