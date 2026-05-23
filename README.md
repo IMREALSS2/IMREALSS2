@@ -85,7 +85,7 @@ const me = {
   pronouns: ["he/him", "they/them"],
   coffee:   "STARBUCKSSSSS",
   music:    ["anything that sounds good"],
-  pet:      "would die for a cat",
+  pet:      "A CUTE CAT OFC",
   motto:    "being a femboy is good",
 };
 ```
@@ -96,7 +96,7 @@ const me = {
 
 ### say hi maybe
 
-i'm friendly i swear
+IM VERY FRIENDLY OKAY OKAY
 
 ![visitor count](https://visitor-badge.laobi.icu/badge?page_id=IMREALSS2.IMREALSS2&left_color=FF8FAB&right_color=222222&left_text=visitors)
 
