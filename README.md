@@ -67,11 +67,12 @@ runs:  on energy
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=IMREALSS2&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8FAB&icon_color=FF8FAB&count_private=true&include_all_commits=true)
+
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=IMREALSS2&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8FAB&icon_color=FF8FAB&count_private=true&include_all_commits=true)
 
 ![Streak](https://streak-stats.demolab.com?user=IMREALSS2&theme=radical&hide_border=true&background=0D1117&stroke=FF8FAB&ring=FF8FAB&fire=FFB3C6&currStreakLabel=FF8FAB)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMREALSS2&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8FAB&hide=lua&langs_count=8)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IMREALSS2&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8FAB&hide=lua&langs_count=8)
 
 </div>
 
