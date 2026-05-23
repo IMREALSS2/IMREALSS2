@@ -48,7 +48,7 @@ runs:  on energy
 
 </div>
 
-> lua is just trash
+> lua, seems interesting, someday I will learn
 >
 > low-level stuff (c++, rust)
 
