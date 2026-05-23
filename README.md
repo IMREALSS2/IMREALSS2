@@ -56,8 +56,8 @@ runs:  on energy
 
 ### what i'm doing rn
 
-- tinkering with browser games
-- making little unity prototypes
+- messing around with browser games
+- making little unity games
 - small projects
 - trying to actually finish a project for once
 
