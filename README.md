@@ -67,7 +67,6 @@ runs:  on energy
 
 <div align="center">
 
-
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=IMREALSS2&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8FAB&icon_color=FF8FAB&count_private=true&include_all_commits=true)
 
 ![Streak](https://streak-stats.demolab.com?user=IMREALSS2&theme=radical&hide_border=true&background=0D1117&stroke=FF8FAB&ring=FF8FAB&fire=FFB3C6&currStreakLabel=FF8FAB)
@@ -97,6 +96,9 @@ const me = {
 ### say hi maybe
 
 IM VERY FRIENDLY OKAY OKAY
+
+[![Discord](https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EyDuSVMMEJ)
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@OFFICALSS2SCRIPTS)
 
 ![visitor count](https://visitor-badge.laobi.icu/badge?page_id=IMREALSS2.IMREALSS2&left_color=FF8FAB&right_color=222222&left_text=visitors)
 
