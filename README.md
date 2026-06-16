@@ -13,7 +13,7 @@
 ```yaml
 name:  SS2
 age:   16
-vibe:  idk what to put her
+vibe:  idk what to put here
 mood:  locked in
 loves: building games & tools
 runs:  on idk nothing
