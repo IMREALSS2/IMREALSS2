@@ -50,7 +50,7 @@ runs:  on idk nothing
 
 > lua — looks interesting, on the someday list
 >
-> low-level stuff (c++, rust) — respect it, scared of it
+> low-level stuff (c++, rust)
 
 ---
 
