@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=IMREALSS2&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=16%20%2F%20coder%20%2F%20just%20living%20life&descSize=14&descAlignY=60)
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF8FAB&center=true&vCenter=true&width=520&lines=just+a+femboy+who+codes;making+stuff+that+is+fun;FEMBOYS+%E2%80%A2+ON+TOP;c%23+kinda+nice+also)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF8FAB&center=true&vCenter=true&width=520&lines=just+a+coder+building+fun+stuff;js+was+my+first+love;c%23+%2B+unity+%3D+my+happy+place;always+shipping+something+new)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,10 +13,10 @@
 ```yaml
 name:  SS2
 age:   16
-vibe:  idk
-mood:  happy
-loves: CODINGGGGGG
-runs:  on energy
+vibe:  idk what to put her
+mood:  locked in
+loves: building games & tools
+runs:  on idk nothing
 ```
 
 ---
@@ -32,13 +32,13 @@ runs:  on energy
 
 </div>
 
-- **JavaScript** — first love. self taught btw
-- **Python** — fun tools, I love creating discord tools
-- **C# / Unity** — i love creating games
+- **JavaScript** — my first love. self taught btw
+- **Python** — fun tools, I love building discord bots & utilities
+- **C# / Unity** — where I spend most of my time making games
 
 ---
 
-### stuff i'm absolute garbage at
+### stuff i'm absolute garbage at (for now)
 
 <div align="center">
 
@@ -48,18 +48,18 @@ runs:  on energy
 
 </div>
 
-> lua, seems interesting, someday I will learn
+> lua — looks interesting, on the someday list
 >
-> low-level stuff (c++, rust)
+> low-level stuff (c++, rust) — respect it, scared of it
 
 ---
 
 ### what i'm doing rn
 
-- messing around with browser games
-- making little unity games
-- small projects
-- trying to actually finish a project for once
+- building little Unity games and actually trying to finish one
+- messing around with browser / .io game ideas
+- small tools & side projects
+- living life
 
 ---
 
@@ -82,10 +82,10 @@ runs:  on energy
 ```js
 const me = {
   pronouns: ["he/him", "they/them"],
-  coffee:   "STARBUCKSSSSS",
+  coffee:   "starbucks enjoyer",
   music:    ["anything that sounds good"],
-  pet:      "A CUTE CAT OFC",
-  motto:    "being a femboy is good",
+  pet:      "one very cute cat",
+  motto:    "build cool things, be a good person",
 };
 ```
 
@@ -95,7 +95,7 @@ const me = {
 
 ### say hi maybe
 
-IM VERY FRIENDLY OKAY OKAY
+i'm very friendly, promise :)
 
 [![Discord](https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EyDuSVMMEJ)
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@OFFICALSS2SCRIPTS)
