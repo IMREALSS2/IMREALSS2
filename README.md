@@ -17,8 +17,8 @@
 
 ```yaml
 name:     SS2
-age:      16
-focus:    games, tools, and anything i can ship
+age:      17
+focus:    Software, tools, and other things.
 learning: always
 mood:     locked in
 ```
@@ -43,8 +43,8 @@ Self-taught since the start. I build things because I want them to exist, then I
 | | |
 |---|---|
 | **JavaScript** | First language I ever learned, still the one I reach for. Discord bots, web tools, browser stuff. |
-| **C# / Unity** | Where most of my hours go. Currently trying to actually *finish* a game instead of starting six. |
-| **Python** | Utilities and automation. Quick to write, quick to ship. |
+| **C# / Unity** | Where most of my hours go. Currently trying to actually *finish* a game. |
+| **Python** | Utilities and automation. |
 
 <br>
 
@@ -58,7 +58,8 @@ Self-taught since the start. I build things because I want them to exist, then I
 
 </div>
 
-> Low-level is the gap I know I have. Working on it, slowly, on purpose.
+> Working on it, slowly.6+
+> 
 
 <br>
 
@@ -70,7 +71,7 @@ Self-taught since the start. I build things because I want them to exist, then I
 
 </div>
 
-- **DEVBIN** — scripting community site, live leaderboard, Discord bot, Cloudflare Worker backend
+- **DEVBIN** — scripting community site but is now shutdown
 - **Unity games** — small, finishable, actually shipped
 - **Discord tooling** — bots and utilities I kept rebuilding until they were good
 
@@ -96,7 +97,7 @@ Self-taught since the start. I build things because I want them to exist, then I
 const ss2 = {
   pronouns: "she/her",
   coffee:   "starbucks, unapologetically",
-  music:    "anything that goes hard",
+  music:    "anything that goes good",
   cat:      "one, very cute, very loud",
   motto:    "build cool things, be a good person",
 };
@@ -108,7 +109,7 @@ const ss2 = {
 
 ## say hi
 
-Always down to talk about games, code, or whatever you're building.
+Always down to talk about lots of things/
 
 [![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=FF8FAB&labelColor=0D1117)](https://discord.gg/EyDuSVMMEJ)
 [![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF8FAB&labelColor=0D1117)](https://www.youtube.com/@OFFICALSS2SCRIPTS)
