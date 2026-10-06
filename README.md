@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:3d1f2b,100:ff8fab&height=200&section=header&text=IMREALSS2&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=16%20%C2%B7%20self-taught%20%C2%B7%20building%20games%20and%20tools&descSize=15&descAlignY=57" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:3d1f2b,100:ff8fab&height=200&section=header&text=IMREALSS2&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=17%20%C2%B7%20self-taught%20%C2%B7%20building%20software%20and%20tools&descSize=15&descAlignY=57" width="100%" />
 
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=FF8FAB&center=true&vCenter=true&width=540&lines=js+was+my+first+love;c%23+%2B+unity+%3D+my+happy+place;shipping+something+new+every+week)](https://git.io/typing-svg)
 
 <br>
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIMREALSS2&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=FF8FAB&label=PUBLIC%20REPOS&labelColor=0D1117&color=161B22)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIMREALSS2&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=FF8FAB&label=PUBLIC%20REPOS&labelColor=0D1117&color=161B22)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=IMREALSS2.IMREALSS2&left_color=0D1117&right_color=FF8FAB&left_text=VISITORS)
 
 </div>
@@ -18,7 +18,7 @@
 ```yaml
 name:     SS2
 age:      17
-focus:    Software, tools, and other things.
+focus:    software, tools, and other things
 learning: always
 mood:     locked in
 ```
@@ -58,8 +58,7 @@ Self-taught since the start. I build things because I want them to exist, then I
 
 </div>
 
-> Working on it, slowly.6+
-> 
+> Working on it, slowly.
 
 <br>
 
@@ -71,7 +70,7 @@ Self-taught since the start. I build things because I want them to exist, then I
 
 </div>
 
-- **DEVBIN** — scripting community site but is now shutdown
+- **DEVBIN** — scripting community site, now shut down
 - **Unity games** — small, finishable, actually shipped
 - **Discord tooling** — bots and utilities I kept rebuilding until they were good
 
@@ -97,7 +96,7 @@ Self-taught since the start. I build things because I want them to exist, then I
 const ss2 = {
   pronouns: "she/her",
   coffee:   "starbucks, unapologetically",
-  music:    "anything that goes good",
+  music:    "anything that sounds good",
   cat:      "one, very cute, very loud",
   motto:    "build cool things, be a good person",
 };
@@ -109,7 +108,7 @@ const ss2 = {
 
 ## say hi
 
-Always down to talk about lots of things/
+Always down to talk about pretty much anything.
 
 [![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=FF8FAB&labelColor=0D1117)](https://discord.gg/EyDuSVMMEJ)
 [![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF8FAB&labelColor=0D1117)](https://www.youtube.com/@OFFICALSS2SCRIPTS)
